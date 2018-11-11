@@ -16,7 +16,7 @@ public class TongHop {
          * Create date: Nov 11, 2018
          * Modifier: HQTrung
          * Modified date: Nov 11, 2018
-         * Description: ....
+         * Description: tong hop control flow draw shape
          * Version 1.0
          * @param args
          */
